@@ -122,6 +122,7 @@ Ubuntu 20.04
 - [lua-LevelUpReward](https://github.com/55Honey/Acore_LevelUpReward)
 - [lua-send-and-bind](https://github.com/55Honey/Acore_SendAndBind)
 - [lua-Zonecheck](https://github.com/55Honey/acore_Zonecheck)
+- [lua-eventScripts](https://github.com/55Honey/Acore_CustomWorldboss)
 
 ##### OTHER CUSTOMIZATIONS:
 
